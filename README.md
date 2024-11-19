@@ -48,7 +48,8 @@ ii)	Create Schematic Cell view.
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
 
-![IMG-20241019-WA0032](https://github.com/user-attachments/assets/367dd590-0978-45bf-bbc9-84e181d23d0a)
+![Screenshot (115)](https://github.com/user-attachments/assets/29f975c7-fea9-4372-996f-f1ad60d929df)
+
 
  
 iii)	Creating the Symbol for schematic Cell view
@@ -65,7 +66,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![IMG-20241019-WA0029](https://github.com/user-attachments/assets/bcea6826-7c9d-464b-a645-aa0f6b0c80aa)
+![Screenshot (116)](https://github.com/user-attachments/assets/4d67b1f6-a457-48ea-98f0-9b4097563009)
+
 
 
 
@@ -80,7 +82,8 @@ iv)	Creating the new test cell view
 •	Follow the step 3(ii) d to make the required connections
 
 
-![IMG-20241019-WA0031](https://github.com/user-attachments/assets/11ad6598-e17a-42d3-becf-022d93e4e99d)
+![Screenshot (117)](https://github.com/user-attachments/assets/6485fcf5-f0f9-4ddd-9290-c7bc14631619)
+
 
  
 
@@ -95,14 +98,16 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
 
-![IMG-20241026-WA0016](https://github.com/user-attachments/assets/cefafc03-6c2e-4227-91fe-f21f1241754c)
+![Screenshot (119)](https://github.com/user-attachments/assets/0f21cc42-bf4b-42b6-90e0-b243ce37a25f)
 
 
-For Transient Analysis Settings and Output
-![IMG-20241019-WA0028](https://github.com/user-attachments/assets/ccc48800-045e-4cf8-b9d7-bf8fc443e8ae)
+For Transient Analysis setting and output
+![Screenshot (118)](https://github.com/user-attachments/assets/c81b9a08-4641-49bd-9792-4d11f33874db)
 
 
- ![IMG-20241019-WA0027](https://github.com/user-attachments/assets/c13a30de-284c-4201-8bde-c9fc9e88234b)
+
+ ![Screenshot (120)](https://github.com/user-attachments/assets/19d022a0-f936-4a6f-ab1f-0a03cd934b07)
+
 
   
 
